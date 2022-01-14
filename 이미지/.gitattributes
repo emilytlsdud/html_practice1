@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+동궁[[:space:]]최종.mp4 filter=lfs diff=lfs merge=lfs -text
